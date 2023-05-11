@@ -1,7 +1,9 @@
-
-
-INSERT INTO results (user_id, color) VALUES (127845123256845926773829583232027997,'red');
-INSERT INTO results (user_id, color) VALUES (1263451232568412346773829583232027997,'green');
-INSERT INTO results (user_id, color) VALUES (12784512325684653773829583232027997,'blue');
-INSERT INTO results (user_id, color) VALUES (12354451232561236773829583232027997,'yellow');
+INSERT INTO results (user_id, color) VALUES (3829583232027997,'red');
+INSERT INTO results (user_id, color) VALUES (2829583232027997,'green');
+INSERT INTO results (user_id, color) VALUES (1829583232027997,'blue');
+INSERT INTO results (user_id, color) VALUES (1234583232027997,'yellow');
+INSERT INTO results (user_id, color) VALUES (3829583232034597,'red');
+INSERT INTO results (user_id, color) VALUES (2829582354027997,'green');
+INSERT INTO results (user_id, color) VALUES (1827688232027997,'blue');
+INSERT INTO results (user_id, color) VALUES (1234235232027997,'yellow');
 
